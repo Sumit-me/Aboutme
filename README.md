@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://sumit-me.github.io/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kumar-634304209/) 
 
-💻 Tech Stack<br>My preferred tech stack includes:<br><br>Server Side and Scripting: PHP<br>Frontend: JavaScript<br>Server Framework: Bootstrap<br>Frontend Framework: React<br>Languages - C/C++, Python, Java<br> Frontend: HTML, CSS, Javascript, Reactjs, Bootstrap. <br> Backend: Nodejs, Expreshjs, Rest API, PHP, SQL.<br> Database: MongoDB, Supabase, MySQL <br> Operating System: Windows, Linux.<br> Cs courses:  Database Management System, Operating System, Data Structures and Algorithms, System Design, OOPS. <br> <br> 📧 Contact<br>Feel free to reach out to me for exciting collaborations and opportunities! <br>You can contact me at sumitkumawat1716@gmail.com.<br><br>Let's innovate and create something awesome together! 👨‍💻🌟
+💻 Tech Stack<br>My preferred tech stack includes:<br><br>Languages : C/C++, Python, Java<br> Frontend: HTML, CSS, Javascript, Reactjs, Bootstrap. <br> Backend: Nodejs, Expreshjs, Rest API, PHP, SQL.<br> Database: MongoDB, Supabase, MySQL <br> Operating System: Windows, Linux.<br> Cs courses:  Database Management System, Operating System, Data Structures and Algorithms, System Design, OOPS. <br> <br> 📧 Contact<br>Feel free to reach out to me for exciting collaborations and opportunities! <br>You can contact me at sumitkumawat1716@gmail.com.<br><br>Let's innovate and create something awesome together! 👨‍💻🌟
 
 ---
 
